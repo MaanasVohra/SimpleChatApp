@@ -1,0 +1,22 @@
+{
+  "name": "simplechatapp",
+  "version": "1.0.0",
+  "description": "Chat App using Socket.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaanasVohra/SimpleChatApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaanasVohra/SimpleChatApp/issues"
+  },
+  "homepage": "https://github.com/MaanasVohra/SimpleChatApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
